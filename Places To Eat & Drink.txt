@@ -1,19 +1,15 @@
 <!DOCTYPE html>
 <html>
-
-	<head>
-		<title>Places To Eat & Drink</title>
-	</head>
-
-	<body>
-		<h1>
-			Desserts
-		</h1>
-		<UL>
-			<LI>Mycha</LI>
-			<LI>CE Coffee and Donut</LI>
-		</UL>
-
-	</body>
-
+<head>
+<title>Places To Eat & Drink</title>
+</head>
+<body>
+<h1>
+Desserts
+</h1>
+<UL>
+<LI>Mycha</LI>
+<LI>CE Coffee and Donut</LI>
+</UL>
+</body>
 </html>
